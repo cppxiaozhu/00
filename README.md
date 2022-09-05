@@ -22,6 +22,10 @@
 
 ### 精准造词
 
-后来，更是利用 librime 的「多翻译器协同」，在输入界面内造词，实现了「引导造词」。
+后来，更是利用 librime 的「多翻译器协同」，在输入界面内造词，实现了「引导造词」。而且，当所造的词被上屏过一次后，就会收录到用户目录下的「userphrase.txt」中，方便归纳整理。
+
+- `引导精准造词
 
 ![精准造词](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa4.png)
+
+

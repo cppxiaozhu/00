@@ -71,3 +71,15 @@
 虽然「小狼毫助手」解决了一部分设置问题，但是有些用 Mac 和 Linux 的用户常常提类似设置的问题。「98五笔资源库」的管理员经常在 QQ 群里教别人使用 vscode 或 notepad3 之类的工具打开「yaml」，而不是用 windows 内置的「记事本」。可能他们也觉得这不是办法，于是决心自己写一个：要性能好，要跨平台。
 
 ![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/8.png)
+
+![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/2.png)
+
+![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/3.png)
+
+![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/4.png)
+
+![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/5.png)
+
+![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/6.png)
+
+![中州韵助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/7.png)

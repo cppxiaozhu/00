@@ -28,6 +28,23 @@
 
 ![精准造词](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa4.png)
 
-除此之外，还有一些功能如「翻简转换」、「单字模式」、「字符集过滤」等等。在「小狼毫98五笔.exe」这个软件包内部，实现了比较完备的「音形互查」、「拆分助记」、「造词」等刚需。
+除此之外，还有一些功能如「翻简转换」、「单字模式」、「字符集过滤」等等。在「小狼毫98五笔.exe」这个软件包内部，实现了比较完备的「音形互查」、「拆分助记」、「造词」等五笔刚需。
+
+## 绿色的外挂辅助
+
+### 小狼毫助手
+
+虽然「小狼毫98五笔.exe」这个软件本身挺好用了，但是据我在 QQ 群里的了解，他们仍需向完全没有接触过「RIME」的新手解释一些设置入口与快捷键之类的东西。这种无休止的月经式问题，无休无止，即使有了图文解说，但是 RIME 对于很多新人依然是高不可攀的事物。
+
+后来，社群中「98五笔资源库」的管理制作了「小狼毫助手」，实现了：
 
 
+![小狼毫助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa5.png)
+
+![小狼毫助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa6.png)
+
+![小狼毫助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa7.png)
+
+![小狼毫助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa8.png)
+
+![小狼毫助手](https://raw.githubusercontent.com/cppxiaozhu/00/main/aa9.png)
